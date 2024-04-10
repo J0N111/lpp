@@ -1,0 +1,45 @@
+body {
+   background-color: #131212;
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+h1{
+   color: aliceblue;
+   font-family: "Indie Flower", cursive;
+   font-size: 3rem;
+}
+
+h2{
+   color: aliceblue;
+   font-family: "Annie Use Your Telescope", cursive;
+   font-size: 1.75rem;
+}
+
+p {
+   color: aliceblue;
+   font-family: "Annie Use Your Telescope", cursive;
+   font-size: 2rem;
+}
+
+.borderColor1 {
+   border: 4px solid #3B496D;
+   width: 100%;
+   border-radius: 10px 10px 0px 0px;
+}
+
+.borderColor2 {
+   border: 6px solid #51659A;
+   width: 100%;
+}
+
+.borderColor3 {
+   border: 10px solid #5C81DF;
+   width: 100%;
+   border-radius: 0px 0px 10px 10px;
+}
+
+h2:hover {
+   color: #2b80c5;
+   font-size: 1.8rem;
+}
